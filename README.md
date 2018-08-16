@@ -31,7 +31,7 @@ java -jar Muse-1.0.0.jar MDroidPlus/libs4ast/ /tmp/AppFoo/src/ AppFoo /tmp/mutan
 ### Output
 The output directory will contain a folder with the source code for each generated mutant. 
 
-### Cite
+# Cite
 If you use Muse for academic purposes, please cite: 
 
 Bonett, R., Kafle, K., Moran, K., Nadkarni, A., & Poshyvanyk, D. (2018, August). Discovering Flaws in Security-Focused Static Analysis Tools for Android using Systematic Mutation. In 27th USENIX Security Symposium (USENIX Security 18). USENIX Association.
