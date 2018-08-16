@@ -1,0 +1,8 @@
+/target
+.DS_STORE
+/bin/
+.classpath
+*~
+*.swp
+out/*
+out
